@@ -1,0 +1,2 @@
+C:\Users\valer\source\repos\Project\Debug\Project.exe
+C:\Users\valer\source\repos\Project\Debug\Project.pdb
